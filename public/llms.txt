@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-4bf79ea5.zappy5.app
+https://example.com
 אספקת מוצרי משרד לעסקים בקלות ובמהירות: קפה, חלב, כיבוד, חומרי ניקוי וטואלטיקה. כל מה שהעסק שלכם צריך כל יום — במקום אחד. הזמינו עכשיו!
 
 ### פתרונות
-https://-4bf79ea5.zappy5.app/solutions
+https://example.com/solutions
 גלו את מגוון פתרונות האספקה שלנו לעסקים ומשרדים: חומרי ניקוי, כיבוד, טואלטיקה, קפה וחלב — הכל בחבילות מותאמות אישית לצרכי הארגון שלכם. בדקו עכשיו!
 
 ### אודות
-https://-4bf79ea5.zappy5.app/about
+https://example.com/about
 אנחנו ספק מוצרי משרד וצריכה בישראל עם ניסיון עשיר בשירות לקוחות עסקיים. למדו על הערכים, המחויבות והמקצועיות שהופכים אותנו לשותף האמין של הארגון שלכם.
 
 ### צור קשר
-https://-4bf79ea5.zappy5.app/contact
+https://example.com/contact
 רוצים להתחיל לקבל אספקת מוצרי משרד לעסקים בצורה סדירה ומקצועית? צרו קשר עוד היום ונבנה יחד פתרון אספקה מושלם שחוסך לכם זמן וכסף. אנחנו כאן בשבילכם!
 
 ### Products
-https://-4bf79ea5.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - טי אל וי - הכל לעסק ולמשרד
 
 ### Product Detail
-https://-4bf79ea5.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - טי אל וי - הכל לעסק ולמשרד
 
 ### Category
-https://-4bf79ea5.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - טי אל וי - הכל לעסק ולמשרד
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4bf79ea5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4bf79ea5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4bf79ea5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -73,8 +73,8 @@ A B2B consumer goods supply service targeting businesses and offices, providing 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4bf79ea5.zappy5.app/sitemap.xml
-- Robots: https://-4bf79ea5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4bf79ea5.zappy5.app/llms-full.txt
-- Products (JSON): https://-4bf79ea5.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-4bf79ea5.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
