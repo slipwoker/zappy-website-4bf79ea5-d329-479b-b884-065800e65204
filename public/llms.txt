@@ -1,0 +1,80 @@
+# טי אל וי - הכל לעסק ולמשרד — Generative Engine Optimization Map
+
+> A B2B consumer goods supply service targeting businesses and offices, providing essential products needed for day-to-day business operations. The business focuses on serving corporate clients and office environments with a wide range of consumable products.
+
+---
+
+## Pages
+
+### בית
+https://-4bf79ea5.zappy5.app
+אספקת מוצרי משרד לעסקים בקלות ובמהירות: קפה, חלב, כיבוד, חומרי ניקוי וטואלטיקה. כל מה שהעסק שלכם צריך כל יום — במקום אחד. הזמינו עכשיו!
+
+### פתרונות
+https://-4bf79ea5.zappy5.app/solutions
+גלו את מגוון פתרונות האספקה שלנו לעסקים ומשרדים: חומרי ניקוי, כיבוד, טואלטיקה, קפה וחלב — הכל בחבילות מותאמות אישית לצרכי הארגון שלכם. בדקו עכשיו!
+
+### אודות
+https://-4bf79ea5.zappy5.app/about
+אנחנו ספק מוצרי משרד וצריכה בישראל עם ניסיון עשיר בשירות לקוחות עסקיים. למדו על הערכים, המחויבות והמקצועיות שהופכים אותנו לשותף האמין של הארגון שלכם.
+
+### צור קשר
+https://-4bf79ea5.zappy5.app/contact
+רוצים להתחיל לקבל אספקת מוצרי משרד לעסקים בצורה סדירה ומקצועית? צרו קשר עוד היום ונבנה יחד פתרון אספקה מושלם שחוסך לכם זמן וכסף. אנחנו כאן בשבילכם!
+
+### Products
+https://-4bf79ea5.zappy5.app/products
+המוצרים שלנו - טי אל וי - הכל לעסק ולמשרד
+
+### Product Detail
+https://-4bf79ea5.zappy5.app/product/:slug
+פרטי המוצר - טי אל וי - הכל לעסק ולמשרד
+
+### Category
+https://-4bf79ea5.zappy5.app/category/:slug
+מוצרים - טי אל וי - הכל לעסק ולמשרד
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4bf79ea5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4bf79ea5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4bf79ea5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טי אל וי - הכל לעסק ולמשרד
+A B2B consumer goods supply service targeting businesses and offices, providing essential products needed for day-to-day business operations. The business focuses on serving corporate clients and office environments with a wide range of consumable products.
+
+## Target Audience
+- עסקים ומשרדים
+- בעלי עסקים קטנים
+- מנהלי רכש בחברות
+
+## Industry
+מוצרי צריכה ואספקה עסקית
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4bf79ea5.zappy5.app/sitemap.xml
+- Robots: https://-4bf79ea5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4bf79ea5.zappy5.app/llms-full.txt
+- Products (JSON): https://-4bf79ea5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-4bf79ea5.zappy5.app/product-feed.xml
